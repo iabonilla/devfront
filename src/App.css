@@ -1,0 +1,13 @@
+.fondo{
+  background-image: url(./assets/img/fondo.avif);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top:0;
+  left: 50%;
+  width: 50%;
+  height: 100vh;
+  z-index: 10;
+  /* background-color: brown; */
+}
